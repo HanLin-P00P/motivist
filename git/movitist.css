@@ -1,0 +1,7 @@
+#m {
+	 border-top-right-radius:10%; border-top-left-radius: 10%; border-bottom-left-radius: 10%; border-bottom-right-radius:10%
+}
+
+.im {
+	height: 150px; width: 100%; border-top-right-radius:10%; border-top-left-radius: 10%;border-bottom-right-radius:10%;border-bottom-left-radius: 10%;
+}
